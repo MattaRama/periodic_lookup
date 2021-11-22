@@ -1,0 +1,2 @@
+- Modify search method to not require json data as an argument
+- Create a formula class
